@@ -7,7 +7,7 @@ The build you can download here is the final version I used to present my thesis
     
 Since this has taken a lot of effort I decided to share it so people could enjoy it.
     
-Once I agian I would like to mention that this is a prototype.
+Once I agian I would like to mention that this is a prototype.  
 That means there is just a single level, lots of bugs, not all features work and no real way to win or lose the game.  
   
 I hope you enjoy
